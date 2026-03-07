@@ -15,3 +15,9 @@ This repository showcases my practical journey in ML Engineering.
 - MLOps & DevOps for AI
 - Data Pipelines & Automation
 - Production-Ready ML Systems
+
+## License
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+© 2025 [YOUR FULL NAME] — github.com/muhammed-keita-ml 
