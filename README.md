@@ -20,4 +20,6 @@ This repository showcases my practical journey in ML Engineering.
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/muhammed-keita-ml/ml-engineering-portfolio)
+
 © 2026 Muhammed Keita — github.com/muhammed-keita-ml 
